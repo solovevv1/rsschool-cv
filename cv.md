@@ -16,3 +16,7 @@ Being able to work from anywhere in the world has inspired me to start a new pag
 ## Education:
 * edX.com (HTML, CSS, JavaScript)
 
+## English level:
+Upper-Intermediate (B2)
+* Don’t speak school - intermediate level
+* Skillset school - upper-intermediate level.
