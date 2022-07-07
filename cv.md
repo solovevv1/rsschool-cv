@@ -12,6 +12,7 @@ Being able to work from anywhere in the world has inspired me to start a new pag
 * HTML
 * CSS
 * JavaScript
+* Visual Studio Code
 
 ## Education:
 * edX.com (HTML, CSS, JavaScript)
